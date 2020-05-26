@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="783f4f99-9596-47f1-87f1-083b934e34f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mini Project 2 - Local Feature Matching" />
+  </component>
+  <component name="ProjectId" id="1aB93vkeUrfwdWsygjh1w91aVoa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../miniProject3/MiniProject3/code" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Project 2 - Local Feature Matching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-p notre_dame" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="memusecheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Project 2 - Local Feature Matching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/memusecheck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.memusecheck" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.memusecheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="783f4f99-9596-47f1-87f1-083b934e34f6" name="Default Changelist" comment="" />
+      <created>1586197923934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586197923934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="124" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586540015210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="124" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586540015210" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587576993501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587576993501" />
+    <state width="1345" height="276" key="GridCell.Tab.0.bottom" timestamp="1586541609599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586541609599" />
+    <state width="1345" height="276" key="GridCell.Tab.0.center" timestamp="1586541609599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586541609599" />
+    <state width="1345" height="276" key="GridCell.Tab.0.left" timestamp="1586541609599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586541609599" />
+    <state width="1345" height="276" key="GridCell.Tab.0.right" timestamp="1586541609599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586541609599" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1586541609594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586541609594" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1586541609594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586541609594" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1586541609593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586541609593" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1586541609594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586541609594" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586199922365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586199922365" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1586431348669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586431348669" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587576869452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587576869452" />
+    <state x="254" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586199726862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586199726862" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1586198182107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586198182107" />
+  </component>
+</project>
